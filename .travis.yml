@@ -1,0 +1,11 @@
+language: objective-c
+
+before_install:
+  - brew update
+  - brew outdated cmake || brew upgrade cmake
+
+script:
+  - mkdir build
+  - cd build
+  - cmake ..
+  - make

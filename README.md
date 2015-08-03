@@ -1,5 +1,7 @@
 # Make QuickTime reference movie on Mac OS X
 
+[![Build Status](https://travis-ci.org/TalkBank/make-refmovie)](https://travis-ci.org/TalkBank/make-refmovie)
+
 (No longer being used. Archived for historical purposes.)
 
 ## Build
